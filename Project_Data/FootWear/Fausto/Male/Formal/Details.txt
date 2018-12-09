@@ -1,0 +1,13 @@
+PName= FAUSTO Men Formal Slip On For Men  (Black)
+PPrice = Rs.2499
+PselPrice = Rs.799
+PDescription= Fashos presents for all the shoe lovers out there must invest upon this smart and cool pairs of amazing shoes brought to you by FAUSTO  Experiment your look this season without compromising on comfort with these casual and formal shoes  These shoes promising long lasting comfort and durability are must-have in your shoe collection
+PPDetails= 
+Weight		500 g (per single Shoe) - Weight of the product may vary depending on size.
+Sales Package	2 Shoes
+Pack of		1
+Sole Material	Air MiX
+Tip Shape	Round
+Closure		Slip On
+PMatCare = 
+Handle with Care

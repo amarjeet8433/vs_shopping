@@ -1,0 +1,16 @@
+PName = Mesh Men Solid Casual Red Shirt
+PPrice = Rs.999
+PselPrice = Rs.399
+PDescription = Look smart in casual formal partywear shirt from the house of Mesh The stylish look enhances the overall appeal of this shirt This shirt ensures great comfort all day long This full sleeved shirt can be best teamed with a pair of trousers jeans chinos and lace ups Color and Sizes available
+PProductDetail = 
+Pack of		1
+Style Code	102 REDPLAIN
+Fit		Slim
+Fabric		Cotton
+Sleeve		Full Sleeve
+Pattern		Solid
+Reversible	No
+Collar		Button Down
+PMaterialCare = 
+Fabric Care	Regular Machine Wash Do not tumble dry Gentle Machine Wash Wash with like colors Hand wash
+Suitable For	Western Wear

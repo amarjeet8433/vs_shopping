@@ -1,0 +1,8 @@
+PName = FAUSTO Loafers For Men  White
+PPrice = Rs.1999
+PSelPrice = Rs.499
+PDescription = Acquire a sporty and smart look by wearing this sneaker from the house of Fausto  This sneaker for men elevates your style and its PVC sole keeps your feet unruffled and relaxed  Carry it off with denims or cargo  either style it surely will add an extra element to your entire facade
+PPDetail = 
+Sales Package	2 Shoes
+Pack of		2
+Sole Material	TPR

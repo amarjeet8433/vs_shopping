@@ -1,0 +1,17 @@
+PName = Highlander Men Solid Formal Dark Blue Shirt
+PPrice = Rs.1099
+PSelPrice = Rs.439
+PDescription = Highlander Single chest pocket denim shirt with regular collar and level wash Shirt
+PProductDetail = 
+Pack of		1
+Model Name	Shirt
+Style Code	HLSH009141 Black
+Fit		Slim
+Fabric		Cotton
+Sleeve		Full Sleeve
+Pattern		Solid
+Reversible	No
+Collar		Slim
+PMaterialCare = 
+Fabric Care	Gentle Machine Wash
+Suitable For	Western Wear

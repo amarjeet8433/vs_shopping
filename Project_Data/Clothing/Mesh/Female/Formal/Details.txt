@@ -1,0 +1,15 @@
+PName = Mesh Women's Solid Formal White Shirt
+PPrice = Rs.1090
+PSelPrice = Rs.890
+PDescription = 
+Pack of		1
+Style Code	SHIRT.sk.SH1
+Fit		Regular
+PProductDetail = 
+Fabric		Cotton
+Sleeve		Full Sleeve
+Pattern		Solid
+Reversible	No
+PMaterialCare = 
+Fabric Care	Hand wash
+Suitable For	Western Wear

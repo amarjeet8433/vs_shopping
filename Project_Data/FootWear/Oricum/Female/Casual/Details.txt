@@ -1,0 +1,18 @@
+PName = Oricum Pink-639 Sneakers For Women  (Pink)
+PPrice = Rs.499
+PSelPrice = Rs.313
+PDescription = 
+Model Name	Pink-639
+Ideal For	Women
+Occasion	Casual
+Outer Material	Canvas
+School Shoe	NO
+Heel Pattern	NA
+Secondary Color Pink
+PProductDetail = 
+Weight		200 g (per single Shoe) - Weight of the product may vary depending on size.
+Sales Package	Casual Shoes
+Pack of		1
+Sole Material	PVC
+Tip Shape	Round
+Closure		Slip on

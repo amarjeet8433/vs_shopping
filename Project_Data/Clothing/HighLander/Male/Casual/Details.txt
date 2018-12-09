@@ -1,0 +1,17 @@
+PName = Highlander Men Checkered Casual Black & Grey Shirt
+PPrice = Rs.999
+PSelPrice = Rs.519
+PDescription = YD checks shirt with roll up tab
+PProductDetail = 
+Pack of		1
+Model Name	Shirt
+Style Code	HLSH009016 Black Grey
+Fit		Slim
+Fabric		Cotton Linen Blend
+Sleeve		Roll up Sleeve
+Pattern		Checkered
+Reversible	No
+Collar		Regular
+PMaterialCare = 
+Fabric Care	Gentle Machine Wash in Lukewarm Water  Do Not Bleach
+Suitable For	Western Wear

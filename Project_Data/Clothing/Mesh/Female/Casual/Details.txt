@@ -1,0 +1,15 @@
+PName = Mesh Women's Solid Casual Blue Shirt
+PPrice = Rs.1999
+PselPrice = Rs.999
+PDescription = 
+Pack of		1
+Style Code	L201649GAX86NAVY
+Fit		Regular
+PProductDetail = 
+Fabric		NA
+Sleeve		Half Sleeve
+Pattern		Solid
+Reversible	No
+PMaterialCare = 
+Fabric Care	Machine wash as per tag
+Suitable For	Western Wear

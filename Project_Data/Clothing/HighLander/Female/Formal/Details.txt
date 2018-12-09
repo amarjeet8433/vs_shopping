@@ -1,0 +1,18 @@
+PName = Highlander Women Printed Formal White Shirt
+PPrice = Rs.1699
+PselPrice = Rs.850
+PDescription = Look elegant at your client meetings with this white shirt from Solly by Allen Solly
+Spun from pure cotton this design features an attractive anchor print all over 
+Don this long sleeve piece with black trousers and stilettos to complete your ensemble
+PProductDetail = 
+Pack of		1
+Style Code	AWSH317R00340
+Closure		Button
+Fabric		Cotton
+Sleeve		Full Sleeve
+Pattern		Printed
+Reversible	No
+Collar		Spread
+PMaterialCare = 
+Fabric Care		Machine wash as per tag
+Suitable For		Western Wear

@@ -1,0 +1,14 @@
+PName = Oricum Classic Formal Lace Up For Men  (Black)
+PPrice = Rs.1099
+PSelPrice = Rs.499
+PDesceription = 
+Make your look testimonial by wearing these formal/casual shoes by Smoky. Made from the finest quality synthetic leather type material and PU sole to give Comfort and Extra Life. It has a beautiful lace up closure style and pointed toe style. These shoes will keep you comfortable and relaxed all day long. From Smoky, you get attractive and uniquely designed shoes which will make you confident of yourself and will enhance your performance.
+PProductDetails = 
+Weight			250 g (per single Shoe) - Weight of the product may vary depending on size.
+Upper Pattern		Solid
+Pack of			1
+Sole Material		PU
+Tip Shape		Pointed
+Closure			Laced
+Lining			Rubber Lining
+Speciality Footwear	Formal and Party Shoe

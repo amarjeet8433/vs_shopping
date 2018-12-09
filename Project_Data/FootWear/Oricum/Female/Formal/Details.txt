@@ -1,0 +1,14 @@
+PName = Oricum Delize Driving Shoes For Women  (Black)
+PPrice = Rs.2599
+PSelPrice = Rs.1559
+PDescription = 
+Ideal For	Women
+Occasion	Formal
+Outer Material	Genuine Leather
+Heel Pattern	Solid
+Leather Type	Top Grain
+Secondary Color	Black
+PProductDetail = 
+Upper Pattern		Solid
+Tanning Process		Synthetic
+Animal Source		Goat Skin

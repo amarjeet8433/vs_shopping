@@ -1,0 +1,17 @@
+PName = Mesh Men's Solid Formal Blue Shirt
+PPrice = Rs.1249
+PSelPrice = Rs.599
+PDescription = This product is offer or created by highest quality fabric materials which means you do not want to worry about the material Quality and Color’s won't fade. but a lot of Importantly: NO SHEEN, NO SHRINK perfect length to wear and when we telling about the fitting, don’t worry because sizes are tailored perfect regular fit With Perfect Measurement it’s not too long or not too short. This shirt will definitely fit to you. This shirt comes at a really affordable price. It ensures that you receive the maximum benefits and provides you a wonderful user expertise. This shirt feels very soft cloth fabric against the skin. simple to wash and simple to care. thus enjoy the advantages while not spending a fortune currently. You will be able to provide or gift this to your nearer and dear Love one Regalfit is a brand that believes in breaking rules once it involves the newest fashion trends. new range of formal and casual wear for men who prefer to get on the highest of hierarchy when it involves style. Regalfit has made-up the method for formal fashion with intelligent particularization and up to date cuts in its vary of consumer goods
+PProductDetail = 
+Pack of		1
+Style Code	Solid | Royal Blue | Men Shirt *98
+Closure		Botton
+Fit		Regular
+Fabric		Cotton
+Sleeve		Full Sleeve
+Pattern		Solid
+Reversible	No
+Collar		Botton Down
+PMaterialCare = 
+Fabric Care	Mild Wash or Gentley Machine Wash In Lukewarm Water, Don't Bleach
+Suitable For	Western Wear

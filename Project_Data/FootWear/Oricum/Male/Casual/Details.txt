@@ -1,0 +1,11 @@
+PName = Oricum Loafers For Men  (Blue)
+PPrice = Rs.499
+PSelPrice = Rs.348
+PDescription = Ideal For	Men
+	       Occasion		Casual
+	       Outer Material   Canvas
+	       School Shoe	No
+PProductDetail = 
+Weight		200g(per Single Shoe)-Weight of the product may vary depending on size
+Pack of		1
+Sole Material	PVC

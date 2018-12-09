@@ -1,0 +1,12 @@
+PName = FAUSTO Women Loafers For Women  Maroon
+PPrice = Rs.1199
+PSelPrice = Rs.499
+PDescription = Fashos presents for all the shoe lovers out there must invest upon this smart and cool pairs of amazing shoes brought to you by FAUSTO  Experiment your look this season without compromising on comfort with these casual and formal shoes  These shoes promising long lasting comfort and durability are must have in your shoe collection
+PProductDetails = 
+Weight		500 g per single Shoe   Weight of the product may vary depending on size
+Upper Pattern	NA
+Sales Package	2 Shoes
+Pack of		1
+Sole Material	PVC
+Tip Shape	Round
+Closure		Loafers

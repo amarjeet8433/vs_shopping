@@ -1,0 +1,248 @@
+﻿.center {
+    text-align: center;
+}
+
+.center-page {
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    top: -40px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+
+.space-vert {
+    margin-top: 20px;
+}
+
+.footer-pos {
+    width: auto;
+    height: auto;
+    position: absolute;
+    top: 700px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+
+body {
+    padding-top: 50px;
+    background-image: url('/Images/bkgdAll.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.ThankyouBG {
+    padding-top: 50px;
+    background-image: url('/Images/thankyou.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+/*products.aspx*/
+.probrand {
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 15px;
+    text-transform: uppercase;
+    font-family: sans-serif;
+}
+
+.proName {
+    font-size: 13px;
+    line-height: 17px;
+    font-family: sans-serif;
+}
+
+.proPrice {
+    font-size: 14px;
+    line-height: 17px;
+    font-family: sans-serif;
+    font-weight: 600;
+}
+
+.proOgPrice {
+    font-size: 13px;
+    font-family: sans-serif;
+    font-weight: 400;
+    text-decoration: line-through;
+    color: gray;
+}
+
+.proPriceDiscount {
+    font-size: 13px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: deeppink;
+}
+
+/*productview*/
+.proNameView {
+    font-size: 20px;
+    line-height: 25px;
+    font-family: sans-serif;
+    font-weight: 600;
+    color: #696e80;
+}
+
+.proOgPriceView {
+    font-size: 15px;
+    font-family: sans-serif;
+    font-weight: 400;
+    text-decoration: line-through;
+    color: gray;
+}
+
+.proPriceDiscountView {
+    font-size: 15px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: deeppink;
+}
+
+.proPriceView {
+    font-size: 16px;
+    line-height: 17px;
+    font-family: sans-serif;
+    font-weight: 600;
+    margin-top: 10px;
+}
+
+.divDet1 {
+    border-bottom: 1px dashed #D5D6D8;
+    margin-bottom: 20px;
+}
+
+.h5Size {
+    font-weight: 600;
+}
+
+input[type=radio] {
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.mainButton {
+    border-radius: 3px;
+    outline: 0;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    font-size: 13px;
+    min-height: 22px;
+    padding: 10px 15px;
+    min-width: 108px;
+    font-weight: 500;
+    background-color: #FF5722;
+    border: 1px solid #FF5722;
+    color: #fff;
+}
+
+#btnCart {
+    margin-right: 6px;
+}
+
+/*Cart*/
+.proNameViewCart {
+    font-size: 15px;
+    line-height: 25px;
+    font-family: sans-serif;
+    font-weight: 600;
+    color: #696e80;
+}
+
+.removeButton {
+    border-radius: 3px;
+    outline: 0;
+    margin-top: 10px;
+    font-size: 13px;
+    min-height: 22px;
+    min-width: 90px;
+    font-weight: 500;
+    background-color: #FF5722;
+    border: 1px solid #FF5722;
+    color: #fff;
+}
+
+.priceGray {
+    font-size: 15px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: dimgray;
+}
+
+.priceGreen {
+    font-size: 15px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: #20bd99;
+}
+
+.buyNowBtn {
+    border-radius: 3px;
+    outline: 0;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    font-size: 13px;
+    min-height: 22px;
+    padding: 10px 15px;
+    font-weight: 500;
+    background-color: #14cda8;
+    border: 1px solid #14cda8;
+    color: #fff;
+    width: 100%;
+}
+
+.container1 {
+    padding-right: 20px;
+    padding-left: 20px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.asideLeft {
+    width: 40%;
+    float: left;
+    color: white;
+    text-shadow: 14px 15px 12px black;
+}
+
+.sectionRight {
+    width: 60%;
+    float: right;
+    padding: 0.5%;
+    background-image: linear-gradient(to top, transparent 0%, white 100%);
+    background-color: rgba(255, 255, 255, .200);
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    margin-left: 0px;
+}
+
+.sectionRight1 {
+    width: 55%;
+    float: right;
+    padding: 0.5%;
+    background-image: linear-gradient(to top, transparent 0%, white 100%);
+    background-color: rgba(255, 255, 255, .200);
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    margin-left: 0px;
+    margin-right: 10px;
+    padding-left: 50px;
+}
+
+.sectionMain {
+    width: 100%;
+    float: none;
+    padding: 0.5%;
+    background-image: linear-gradient(to top, transparent 0%, white 100%);
+    background-color: rgba(255, 255, 255, .200);
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    margin-left: 0px;
+    margin-right: 10px;
+    padding-left: 50px;
+    padding-top: 50px;
+}

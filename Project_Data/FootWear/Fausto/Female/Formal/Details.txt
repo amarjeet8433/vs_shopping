@@ -1,0 +1,8 @@
+PName = FAUSTO Bare Soles Bare Soles Classic formal belly Slip On For Women  (Brown)
+PPrice = Rs.1199
+PSelPrice = Rs.418
+PDescription = Classic formal belly in medium heel. Comfortable medium heel and sole ideal for long hour wear. Evergreen style to wear with any formal outfit.
+PProductDetail = 
+Weight		400 g (per single Shoe) - Weight of the product may vary depending on size.
+Sole Material	Airmax
+Season		AW16

@@ -1,0 +1,19 @@
+PName = Women Printed Casual Dark Blue Shirt
+PPrice = Rs.1495
+PSelPrice = Rs.893
+PDescription = 
+Model Details		This model has a Height of 5 feet 9 inches, Waist 28 inches and is wearing a of Size
+Pack of			1
+Model Name		Ajda
+Style Code		W252317CA580JSW-NAVY
+PProductDetails = 
+Closure		Button
+Fit		Regular
+Fabric		Cotton
+Sleeve		Full Sleeve
+Pattern		Printed
+Reversible	No
+Collar		Spread
+PMaterialCare = 
+Fabric Care		Do not bleach, Machine wash as per tag
+Suitable For		Western Wear
