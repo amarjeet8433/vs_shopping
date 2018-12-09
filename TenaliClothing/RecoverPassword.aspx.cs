@@ -38,7 +38,7 @@ public partial class RecoverPassword : System.Web.UI.Page
             }
             else
             {
-                Response.Redirect("Default.aspx");
+                Response.Redirect("index.aspx");
             }
         }
 

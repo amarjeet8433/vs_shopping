@@ -44,7 +44,7 @@ public partial class Contact : System.Web.UI.Page
     protected void btnSignOut_Click(object sender, EventArgs e)
     {
         Session["USERNAME"] = null;
-        Response.Redirect("Default.aspx");
+        Response.Redirect("index.aspx");
     }
     protected void btnSend_Click(object sender, EventArgs e)
     {

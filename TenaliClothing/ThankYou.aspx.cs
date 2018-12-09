@@ -40,6 +40,6 @@ public partial class ThankYou : System.Web.UI.Page
     protected void btnSignOut_Click(object sender, EventArgs e)
     {
         Session["USERNAME"] = null;
-        Response.Redirect("Default.aspx");
+        Response.Redirect("index.aspx");
     }
 }

@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="Default.aspx.cs" Inherits="_Default" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="index.aspx.cs" Inherits="_Index" %>
 
 <!DOCTYPE html>
 
@@ -39,12 +39,12 @@
                             <span class="icon-bar"></span>
                             <span class="icon-bar"></span>
                         </button>
-                        <a class="navbar-brand" href="Default.aspx"><span>
+                        <a class="navbar-brand" href="index.aspx"><span>
                             <img src="Images/tc only 512.png" alt="Logo" height="30" /></span>TenaliClothing</a>
                     </div>
                     <div class="navbar-collapse collapse">
                         <ul class="nav navbar-nav navbar-right">
-                            <li class="active"><a href="Default.aspx">Home</a></li>
+                            <li class="active"><a href="index.aspx">Home</a></li>
                             <li><a href="About.aspx">About</a></li>
                             <li><a href="Contact.aspx">Contact</a></li>
                             <li><a href="Products.aspx">Products</a></li>
@@ -143,7 +143,7 @@
         <footer>
             <div class="container">
                 <p class="pull-right"><a href="#">Back to top</a></p>
-                <p style="color: white">&copy; 2018 TenaliClothing &middot; <a href="Default.aspx">Home</a> &middot; <a href="About.aspx">About</a> &middot; <a href="Contact.aspx">Contact</a> &middot; <a href="Products.aspx">Products</a></p>
+                <p style="color: white">&copy; 2018 TenaliClothing &middot; <a href="index.aspx">Home</a> &middot; <a href="About.aspx">About</a> &middot; <a href="Contact.aspx">Contact</a> &middot; <a href="Products.aspx">Products</a></p>
             </div>
         </footer>
         <!-- Footer -->

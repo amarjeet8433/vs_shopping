@@ -15,7 +15,7 @@ public partial class UserHome : System.Web.UI.Page
         {
             btnSignOut.Visible = true;
             btnSignIn.Visible = false;
-            Response.Redirect("Default.aspx");
+            Response.Redirect("index.aspx");
             //lblSuccess.Text = "Login Success, Welcome " + Session["USERNAME"].ToString() + "";
         }
         else
@@ -42,7 +42,7 @@ public partial class UserHome : System.Web.UI.Page
     protected void btnSignOut_Click(object sender, EventArgs e)
     {
         Session["USERNAME"] = null;
-        Response.Redirect("Default.aspx");
+        Response.Redirect("index.aspx");
     }
     protected void btnSignIn_Click(object sender, EventArgs e)
     {
